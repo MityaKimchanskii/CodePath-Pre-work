@@ -4,7 +4,7 @@
 
 Submitted by: **Dmityrii Kim**
 
-Time spent: **2** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
